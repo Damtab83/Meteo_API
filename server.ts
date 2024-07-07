@@ -1,5 +1,5 @@
 import express, { Request, Response } from "express";
-import { WeatherController } from "./weatherController";
+import { WeatherController } from "./Controller/weatherController";
 
 const app = express();
 const API_KEY ="ab559c66b5e041689e2140942242606";
