@@ -1,0 +1,25 @@
+{
+  "name": "front",
+  "version": "1.0.0",
+  "description": "Meteo App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Damtab83/Meteo_API.git"
+  },
+  "author": "TABARY DAMIEN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Damtab83/Meteo_API/issues"
+  },
+  "homepage": "https://github.com/Damtab83/Meteo_API#readme",
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  },
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
+}
